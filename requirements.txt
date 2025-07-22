@@ -12,3 +12,4 @@ tensorflow
 prophet
 shap
 Pillow
+statsmodels
