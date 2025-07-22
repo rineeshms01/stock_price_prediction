@@ -2,5 +2,13 @@ yfinance
 pandas
 numpy
 streamlit
-matplotlib
+plotly
+requests
+textblob
 scikit-learn
+xgboost
+lightgbm
+tensorflow
+prophet
+shap
+Pillow
